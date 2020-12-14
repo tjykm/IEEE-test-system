@@ -30,3 +30,5 @@ Photovoltaic farms:
  Bus || Distribution || Q/P(power factor) || r_max || alpha || beta || P_rated || r_c || r_std
 36	Beta	0.000	0	1000.0	2.2222	2.2222	120.0	150.0	1000.0
 37	Beta	0.000	0	1000.0	2.2222	2.2222	120.0	150.0	1000.0
+
+Note: para1, para2 and para3 are of no use.
