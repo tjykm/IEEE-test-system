@@ -1,4 +1,6 @@
-25
+Total number of random variables: 25
+Loads:
+ Bus || Distribution || Q/P(power factor) || mean || standard deviation
 1	Normal	0.453	0.0	4.880
 3	Normal	0.007	0.0	16.100
 4	Normal	0.368	0.0	25.000
@@ -20,7 +22,11 @@
 29	Normal	0.095	0.0	14.175
 31	Normal	0.500	0.0	0.460
 39	Normal	0.226	0.0	55.200
+Wind farms:
+ Bus || Distribution || Q/P(power factor) || para1 || para2 || alpha || beta || para3 || P_max || cut-in || rated || cut-off
 32	Weibull	0.200	0	1	8	3	7.14	180.0	2	12	25
 33	Weibull	0.200	0	1	8	3	7.14	180.0	2	12	25
+Photovoltaic farms:
+ Bus || Distribution || Q/P(power factor) || r_max || alpha || beta || P_rated || r_c || r_std
 36	Beta	0.000	0	1000.0	2.2222	2.2222	120.0	150.0	1000.0
 37	Beta	0.000	0	1000.0	2.2222	2.2222	120.0	150.0	1000.0
